@@ -29,5 +29,5 @@ The Number Guessing Game tests the user's logical thinking by providing feedback
 
 ```text
 START → GUESS NUMBER → TOO HIGH / TOO LOW → (Repeat) → END
-![image](https://github.com/user-attachments/assets/0c2410aa-1000-47ab-ba0d-aed8354f56de)
+
 
